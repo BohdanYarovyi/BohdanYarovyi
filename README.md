@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there! 👋  
+I’m Bohdan, a Java Developer 🚀  
 
-<!--
-**BohdanYarovyi/BohdanYarovyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [ECHO](https://github.com/BohdanYarovyi/echo)  
+- 🌱 Learning Spring Boot and REST API  
 
-Here are some ideas to get you started:
+## 🔧 My Skills  
+- **Programming Languages:** Java, HTML, CSS, JavaScript  
+- **Frameworks & Tools:** Spring Boot, SQL, PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals for 2025  
+- Contribute to 3+ open-source projects  
+- Master advanced Spring Boot features  
+- Improve my knowledge of system design and architecture
+- Improve my English to B1
+
+## 📫 Contact Me  
+- [LinkedIn](https://www.linkedin.com/in/%D0%B1%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD-%D1%8F%D1%80%D0%BE%D0%B2%D0%B8%D0%B9-6a4445252/?locale=en_US)  
+- [bogdan.yarovoy.01@gmail.com](mailto:bogdan.yarovoy.01@gmail.com)
+
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanYarovyi&layout=compact&theme=radical)
