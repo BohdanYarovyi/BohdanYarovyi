@@ -1,7 +1,7 @@
 # Hello there! 👋  
 I’m Bohdan, a Java Developer 🚀  
 
-- 🔭 I’m currently working on [ECHO](https://github.com/BohdanYarovyi/echo)  
+- 🔭 I’m currently working on [Flowmeter](https://github.com/BohdanYarovyi/flow-meter)
 - 🌱 Learning Spring Boot and REST API  
 
 ## 🔧 My Skills  
