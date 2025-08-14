@@ -1,21 +1,20 @@
 # Hello there! 👋  
 I’m Bohdan, a Java Developer 🚀  
 
-- 🔭 I’m currently working on [Flowmeter](https://github.com/BohdanYarovyi/flow-meter)
+- 🔭 I'm currently working on logger-activity in hide mode
 - 🌱 Learning Spring Boot and REST API  
 
 ## 🔧 My Skills  
 - **Programming Languages:** Java, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Spring Boot, SQL, PostgreSQL  
+- **Frameworks & Tools:** Spring Boot, SQL, PostgreSQL, Docker
 
 ## 🎯 Goals for 2025  
-- Contribute to 3+ open-source projects  
-- Master advanced Spring Boot features  
-- Improve my knowledge of system design and architecture
-- Improve my English to B2
+- [DONE] Contribute to 3+ open-source projects  
+- [In Process] Master advanced Spring Boot features  
+- [Improving] Improve my knowledge of system design and architecture
+- [+- 36%] Improve my English to B1
 
-## 📫 Contact Me  
-- [LinkedIn](https://www.linkedin.com/in/%D0%B1%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD-%D1%8F%D1%80%D0%BE%D0%B2%D0%B8%D0%B9-6a4445252/?locale=en_US)  
+## 📫 Contact Me   
 - [bogdan.yarovoy.01@gmail.com](mailto:bogdan.yarovoy.01@gmail.com)
 
 ## 📊 GitHub Stats  
