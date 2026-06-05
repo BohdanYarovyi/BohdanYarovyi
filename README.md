@@ -1,5 +1,6 @@
 # Hello there! 👋  
 I’m Bohdan, a Software Engineer 🚀
+
 Look on my projects below to find out what I can do.
 
 ## 🔧 My Skills  
